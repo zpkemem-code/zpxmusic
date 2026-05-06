@@ -21,11 +21,11 @@ UPSTREAM_REPO = os.getenv("UPSTREAM_REPO", "https://github.com/biduanx/zpxmusic"
 UPSTREAM_BRANCH = os.getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/ShrutiBots")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/ShrutiBotsSupport")
-INSTAGRAM = os.getenv("INSTAGRAM", "https://instagram.com/yaduwanshi_nand")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/lukatmeebruhh")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/gczulpi")
+INSTAGRAM = os.getenv("INSTAGRAM", "https://www.instagram.com/zpbaikkk")
 YOUTUBE = os.getenv("YOUTUBE", "https://youtube.com/@NandEditz")
-GITHUB = os.getenv("GITHUB", "https://github.com/NoxxOP")
+GITHUB = os.getenv("GITHUB", "https://github.com/biduanx")
 DONATE = os.getenv("DONATE", "https://t.me/ShrutiBots/91")
 PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
 
